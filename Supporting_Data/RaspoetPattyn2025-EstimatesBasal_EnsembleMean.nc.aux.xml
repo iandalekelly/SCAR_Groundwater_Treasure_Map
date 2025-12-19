@@ -1,0 +1,26 @@
+<PAMDataset>
+  <Subdataset name="LBTS_all">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">1</MDI>
+          <MDI key="STATISTICS_MEAN">0.60083961824501</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">0.3552716265941</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="Tbc_Mean_all">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">0.0003910946637919</MDI>
+          <MDI key="STATISTICS_MEAN">-3.1236718634063</MDI>
+          <MDI key="STATISTICS_MINIMUM">-33.396201502695</MDI>
+          <MDI key="STATISTICS_STDDEV">4.6966793158216</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
