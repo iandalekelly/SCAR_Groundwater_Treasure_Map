@@ -1,4 +1,6 @@
+# macOS junk
 .DS_Store
-:q
 
-quit
+# GeoPackage / SQLite sidecar files (QGIS)
+*.gpkg-wal
+*.gpkg-shm
