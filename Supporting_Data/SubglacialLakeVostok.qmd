@@ -1,0 +1,44 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.34.11-Prizren">
+  <identifier>../Glaciology/Subglacial Lakes/SubglacialLakes_Vostok.shp</identifier>
+  <parentidentifier></parentidentifier>
+  <language>en</language>
+  <type>dataset</type>
+  <title>Vostok Subglacial Lake</title>
+  <abstract>&#xd;
+Outlines of subglacial lake Vostok in East Antarctica.&#xd;
+&#xd;
+Publication date: 2003.&#xd;
+&#xd;
+The dataset were provided by Dr. Studinger.&#xd;
+&#xd;
+References: Studinger, M., R.E. Bell, G.D. Karner, A.A. Tikku, J.W. Holt, D.L. Morse, T.G. Richter, S.D. Kempf, M.E. Peters, D.D. Blankenship, R.E. Sweeney, V.L. Rystrom (2003), Ice cover, landscape setting, and geological framework of Lake Vostok, East Antarctica. Earth Planet. Sci. Lett., 205, 195-210.&#xd;
+&#xd;
+Editors&#xd;
+Glaciology&#xd;
+&#xd;
+Catherine Ritz&#xd;
+catherine.ritz@univ-grenoble-alpes.fr&#xd;
+&#xd;
+Anne LeBrocq&#xd;
+A.LeBrocq@exeter.ac.uk&#xd;
+</abstract>
+  <links/>
+  <dates/>
+  <fees></fees>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent/>
+</qgis>
