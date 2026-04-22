@@ -1,1 +1,2 @@
-Supporting_Data/*.tif filter=lfs diff=lfs merge=lfs -text
+Supporting_Data/Ehrenfeuchtetal2025-AntarcticWide_max_water_thickness.tif filter=lfs diff=lfs merge=lfs -text
+Supporting_Data/MEaSUREs_InSAR-Based_Antarctica_Ice_Velocity_Map_v2_450m.tif filter=lfs diff=lfs merge=lfs -text
