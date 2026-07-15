@@ -26,12 +26,12 @@ Repository contains:
 
   - The classification of continental basement geology by Aitken et al. (2023)[https://doi.org/10.1029/2021RG000767] (`Aitkenetal2023-AntarcticSedimentary_AntarcticBasins_v1.04.shp`)
   - A .gpkg file containing mask layers of coastlines, grounding lines, and rock outcrops derived from the [Bedmap3](https://doi.org/10.1038/s41597-025-04672-y) dataset (`Bedmap3_Boundaries.gpkg`).
-  - Antarctic research stations from COMNAP (`COMNAP_AntarcticStations.shp`).
+  - The latest list of Antarctic research facilities from [COMNAP](https://www.comnap.aq/antarctic-facilities-information) (`COMNAP_AntarcticFacilities_Nov2024.shp`).
   - Modeled continental estimates of maximum subglacial water thickness from [Ehrenfeucht et al. (2025)](https://doi.org/10.1029/2024GL111386).
   - The sedimentary basin likelihood map of [Li et al. (2022)](https://doi.org/10.1038/s41561-022-00992-5) (`Lietal2022-SedimentaryBasins_LikelihoodMap.tif`).
   - Locations of observed/inferred subglacial lakes in Antarctica from [Livingstone et al. (2022)](https://doi.org/10.1038/s43017-021-00246-9) (`Livingstoneetal2022-SubglacialLakes_AntarcticLakes.shp`).
   - Sentinel-2 satellite imagery over the McMurdo Dry Valleys, accessed via [https://browser.dataspace.copernicus.eu/](https://browser.dataspace.copernicus.eu/) (`McMurdoDryValleys_Sentinel-2_20220127_TrueColor.tiff`, `McMurdoDryValleys_Sentinel-2_20220127_TrueColor_Extended.tiff`, `McMurdoDryValleys_Sentinel-2_QuarterlyMosaics-20240101_TrueColorCloudless.tiff`, `McMurdoDryValleys_Sentinel-2_QuarterlyMosaics-20240101_TrueColorCloudless_Extended.tiff`, `McMurdoDryValleys_Sentinel-2_QuarterlyMosaics-20250101_TrueColorCloudless.tiff`).
-  - A .gpkg file containing mask layers of coastlines and grounding lines from the [MEaSUREs Antarctic Boundaries (v2)](https://nsidc.org/data/nsidc-0709/versions/2) data product (`MEaSUREs_AntarcticBoundaries_v2.gpkg`).
+  - A .gpkg file containing mask layers of coastlines, grounding lines, and drainage basins from the [MEaSUREs Antarctic Boundaries (v2)](https://nsidc.org/data/nsidc-0709/versions/2) data product (`MEaSUREs_AntarcticBoundaries_v2.gpkg`).
   - Continental ice surface velocity from the [MEaSUREs InSAR-Based Antarctica Ice Velocity Map (v2)](https://nsidc.org/data/nsidc-0484/versions/2) data product (`MEaSUREs_InSAR-Based_Antarctica_Ice_Velocity_Map_v2_450m.tif`).
   - The mean outputs from the ensemble of ice sheet models used to estimate basal ice sheet conditions by [Raspoet & Pattyn (2025)](https://doi.org/10.1017/jog.2025.10087) (`RaspoetPattyn2025-EstimatesBasal_EnsembleMean.nc`), with separate .tif files for several variables (refer to `RaspoetPattyn2025-EstimatesBasal_README.md`).
 
